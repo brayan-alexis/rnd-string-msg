@@ -1,0 +1,19 @@
+{
+  "name": "rnd-string-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brayan Fajardo <brayan.alx.fajardo@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "rnd-string-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
